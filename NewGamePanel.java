@@ -123,7 +123,6 @@ public class NewGamePanel {
 
 
         //go to the actual game with the given filename as the save file
-        System.out.println("Creating new game");
         new Game(client, filename);
 
 
